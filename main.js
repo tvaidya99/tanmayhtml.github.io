@@ -52,4 +52,7 @@ $('.project_used span').on({
     }
 });
 
+function websiteVisits(response) {
+  document.querySelector("#visits").textContent = response.value;
+}
 
