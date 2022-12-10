@@ -880,7 +880,7 @@ body.night .experience .job_time, body.night .footer_copyright, body.night .intr
     }
 
     .content{
-      position: absolute;
+        /*position: absolute;*/
       top: 36%;
       left: 5%;
       font-size: 1.5rem;
