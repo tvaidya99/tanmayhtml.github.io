@@ -199,7 +199,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 }
 
 .content {
-    position: absolute;
+     /*position: absolute;*/
     top: 37%;
     overflow:hidden;
     font-size: 30px;
